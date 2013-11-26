@@ -1,7 +1,6 @@
-MapR-on-GCE
-===========
+OBSOLETE :
 
-Simple provisioning scripts for MapR software on Google Compute Engine virtual environment.
+Content moved to separate repository
+	https://github.com/mapr/gce
 
-See README.gce for details on the scripts and the provisioning model.
 
